@@ -1,2 +1,3 @@
 # my-first-repo
-Author : Namratha
+Author : Namratha.M 
+Microchip Technology
